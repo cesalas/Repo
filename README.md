@@ -1,2 +1,5 @@
 # Repo
-Usango Github
+
+usando Github
+
+Primer contribucion local para Github.
